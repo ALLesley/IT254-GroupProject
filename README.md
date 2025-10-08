@@ -12,7 +12,5 @@ L293D<br>
 
 # Software components:
 Arduino IDE<br>
-VS Code to run python
-AI model: Google Text to Speech API
-  from gtts import gTTS
-  import os
+VS Code to run python<br>
+Google Text to Speech API
